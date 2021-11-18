@@ -1,4 +1,27 @@
 ##simple_figure_edit_software
+
+##simple_figure_edit_software
+
+Draw rectangular text straight text 
+
+2. Line, rectangle, text color (line color and fill color), text font adjustable 
+ 
+2.1 Color and font menu can set parameters 
+
+3. Right-click to select the font and other attributes can be changed 
+4. 
+4. Can be deleted All graphics, save, open, and create new functions are implemented. Note: Double-click the left button to delete a graphics
+5. 
+
+##softboard simulates a soft keyboard, the button is a control written in a sub-window by myself, and a BUTTON is not used. The button control inside is written in a sub-window by myself, including the effect of pressing the mouse, including the sidelines are drawn by me Yes, it has truly realized making wheels, instead of using ready-made wheels.
+
+##Typing-game Typing game, there are benefits for hitting 100 points, the specific logic and random string generation are all in the code!
+
+
+
+
+
+
 1. 画出矩形 文字 直线 文本
 2.线、矩形、文本的颜色（线色和填充色）、文本字体可调
 2.1 颜色与字体菜单可以设置参数
